@@ -8,6 +8,10 @@ This is for Scrimba's Front-End Developer Career Path where we build a snake gam
 - CSS
 - Javascript 
 
+## Preview
+<img src="https://github.com/thejoshyee/snake-game/blob/main/snake-game-preview.png" width="50%" />
+
+
 Quick start:
 
 ```
